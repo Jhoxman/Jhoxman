@@ -39,24 +39,3 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
-<a href="https://github.com/Jhoxman" target="_blank" class="github-icon">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" alt="GitHub">
-</a>
-
-<style>
-.github-icon {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 1000;
-  cursor: pointer;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.github-icon:hover {
-  transform: scale(1.2) rotate(10deg);
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-}
-</style>
-
